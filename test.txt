@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is main branch commit!
+=======
+This is feature commit!
+>>>>>>> feature
 
 And here we go with commit #2!
